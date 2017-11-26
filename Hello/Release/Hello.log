@@ -1,0 +1,8 @@
+﻿  Hello.cpp
+Hello.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  stdafx.cpp
+  Generating code
+  All 110 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hello.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Hello\Release\Hello.exe
+  Hello.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Hello\Release\Hello.pdb (Full PDB)

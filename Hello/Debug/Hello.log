@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Hello.cpp
+c:\users\andrew\documents\visual studio 2013\projects\hello\hello\hello.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Hello.vcxproj -> C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Hello\Debug\Hello.exe
