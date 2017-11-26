@@ -64,10 +64,11 @@ void StringMessing() {
 	std::vector<char> charVect = { 'H', 'E', 'L', 'L', 'O', ' ', 'W', 'O', 'R', 'L', 'D', '\0' };
 	//cout << "To begin we have " << charVect;
 
-	// 你們都認識什麽做。Yup.
+	// 你們都認識什麽做。好不好？.
 	string greetString("Hello std::string!");
 	cout << greetString << std::endl;
 
+	cout << "我朋友、您好!" << std::endl;
 	cout << "Enter a line of text: " << std::endl;
 	string firstLine;
 	getline(cin, firstLine);
