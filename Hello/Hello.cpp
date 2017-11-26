@@ -69,7 +69,7 @@ void StringMessing() {
 	cout << greetString << std::endl;
 
 	cout << "我朋友、您好!" << std::endl;
-	cout << "Enter a line of text: " << std::endl;
+	cout << "Please enter a line of text: " << std::endl;
 	string firstLine;
 	getline(cin, firstLine);
 
