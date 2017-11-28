@@ -3,6 +3,7 @@
 ========================================================================
 
 AppWizard has created this Hello application for you.
+~~Ãnd I've added stuff, lulz~~
 
 This file contains a summary of what you will find in each of the files that
 make up your Hello application.
